@@ -63,7 +63,7 @@ Before you begin, ensure you have the following installed on your machine:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/vikasrajputin/spring-ai-chatbot.git
+git clone https://github.com/SatyajitShinde0333/AI-Powered-Customer-Support-Chatbot.git
 cd spring-ai-chatbot
 ```
 
